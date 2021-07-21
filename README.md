@@ -11,5 +11,6 @@
     - Select OK to save the updated PATH. You will need to reopen any console windows for the new PATH location to be available
 - Download this repo, rename the project/repo folder to your liking and you are done!<br/>
   - Run "**Run.bat**" every time you want to compile and run your project.<br/>
+  - Note that at least one source file needs to have "**#define SFML_STATIC**" or you will get compiler errors.<br/>
 - [Official SFML tutorials](https://www.sfml-dev.org/tutorials/2.5/)<br/>
 **Enjoy! :)**
