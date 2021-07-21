@@ -1,7 +1,7 @@
 #define SFML_STATIC
 #include <SFML/Graphics.hpp>
 #include "MyStuff/MyFunctions.h"
-using namespace std;
+
 
 int main()
 {
