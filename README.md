@@ -1,4 +1,4 @@
-# Default SFML2.5.1 Project
+# Default Static-SFML2.5.1 Project
 **Warning!** This project requiers **MinGW** and is **Windows only**!<br/>
 - Short tutorial on installing MinGW:
   - [Download](https://bit.ly/3wSMkdH)
